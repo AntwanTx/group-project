@@ -4,11 +4,11 @@ body {
     margin: 0;
     padding: 0;
     text-align: center;
-    background-color: rgb(217, 234, 240);
+    background-color: rgb(70, 145, 76);
     color: #555;
 }
 header {
-    background: linear-gradient(to bottom right, rgb(92, 149, 235), #333);
+    background: linear-gradient(to bottom right, rgba(202, 97, 58, 0.642), #333);
     color: white;
     padding: 25px;
 }
